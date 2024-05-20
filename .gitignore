@@ -1,7 +1,5 @@
 *.pt
 *.avi
-*/YOLO/*
-*/OP/*
+*/YOLO/
+*/OP/
 __pycache__
-*.txt
-*.jpg
