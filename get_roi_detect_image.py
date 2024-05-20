@@ -23,7 +23,7 @@ def createMaskGroup(keypoints):
 
     return min_x, max_x, min_y, max_y
 
-model_pose = YOLO('yolov8x-pose-p6.pt')
+# model_pose = YOLO('yolov8x-pose-p6.pt')
 model_seg = YOLO('yolov8x-seg.pt')
 
 conf = 0.5
